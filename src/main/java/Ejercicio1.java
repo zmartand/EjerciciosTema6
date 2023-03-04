@@ -1,14 +1,5 @@
 public class Ejercicio1 {
     /*1. Es el mayor
-Escriba una función que tome dos valores reales como argumentos y devuelva el mayor de los dos.
-
-Escriba otra función que también tome dos valores reales como argumentos, pero que devuelva:
-
-0 si los dos valores son iguales;
-
-1 si el primer valor es el mayor;
-
-el texto -1 en caso contrario.
 
 Escribir un algoritmo principal que llame a estas dos funciones.*/
     public static void main(String[] args) {
@@ -30,6 +21,6 @@ Escribir un algoritmo principal que llame a estas dos funciones.*/
         } else {
             return -1;
         }
-        
+
     }
 }
